@@ -59,6 +59,9 @@ Technologies and Tools i use:
 </br>
 </br>
 
+### Email: raghavjindal0212@gmail.com
+### Phone: 8015637209
+
 ## Get in Touch with me
 <div>
   <a href="https://www.linkedin.com/in/raghav-jindal-a56538212/">
