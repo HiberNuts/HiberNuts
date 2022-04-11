@@ -1,5 +1,4 @@
 ### Hi there 👋
-</br>
 
 #### I'm Raghav a self-taught passionate Fullstack developer from India 🇮🇳
 </br>
