@@ -12,7 +12,7 @@
 - 🤔 &nbsp; Exploring the world of programming.
 - 🎓 &nbsp; Studying BTech IT(2024) at Government College of Technology, Coimbatore.
 - 🔭  I’m currently working on Flutter.
-- 😄 "A good programmer is someone who always looks both ways before crossing a one-way street." - Doug Linder
+####   😄 " A good programmer is someone who always looks both ways before crossing a one-way street." - Doug Linder
 
 </br>
  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=HiberNuts&show_icons=true&theme=rose_pine" alt="Anurag's github stats" /></a>  <a  href="https://github.com/anuraghazra/github-readme-stats"><img style="margin-left: 50px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiberNuts&layout=compact&theme=dark&hide_border=true" /></a> 
