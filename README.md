@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm Raghav a self-taught passionate Fullstack developer from India 🇮🇳
+#### I'm Raghav a self-taught passionate Fullstack Web & App developer from India 🇮🇳
 </br>
 
 
