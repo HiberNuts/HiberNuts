@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 #### I'm Raghav a self-taught passionate Fullstack Web & App developer from India 🇮🇳
-</br>
 
 ## Take a look at my portfolio 👇
 #### https://raghav-portfolio.vercel.app/
@@ -57,7 +56,6 @@ Technologies and Tools i use:
 </div>
 
 
-</br>
 </br>
 
 ### Email: raghavjindal0212@gmail.com
