@@ -6,7 +6,6 @@
 #### https://raghav-portfolio.vercel.app/
 
 ![Raghav Jindal](https://user-images.githubusercontent.com/75308493/160169457-7c59b1e5-ff22-4ad9-990b-986a63f24995.jpg)
-</br>
 
 ### 💻 &nbsp;About Me 
 
