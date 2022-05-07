@@ -34,7 +34,6 @@ Below Stats are only for last 7 days
 </div>
 
 
-
 </br>
 
 Technologies and Tools i use:
