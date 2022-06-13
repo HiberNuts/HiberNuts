@@ -1,9 +1,9 @@
-### Hi there 👋
+### Hi there 👋 ![vistors](https://visitor-badge.laobi.icu/badge?page_id=HiberNuts.HiberNuts)
 
 #### I'm Raghav a self-taught passionate Fullstack Web & App developer from India 🇮🇳
 
-## Take a look at my portfolio 👇
-#### https://raghav-portfolio.vercel.app/ ( UnderConstruction🚧 )
+### `Take a look at my portfolio 👇`
+> #### https://raghav-portfolio.vercel.app/ ( UnderConstruction🚧 )
 
 ![Raghav Jindal](https://user-images.githubusercontent.com/75308493/160169457-7c59b1e5-ff22-4ad9-990b-986a63f24995.jpg)
 
@@ -12,7 +12,7 @@
 - 🤔 &nbsp; Exploring the world of programming.
 - 🎓 &nbsp; Studying BTech IT(2024) at Government College of Technology, Coimbatore.
 - 🔭  I’m currently working on Flutter.
-####   😄 " A good programmer is someone who always looks both ways before crossing a one-way street." - Doug Linder
+####   `😄 " A good programmer is someone who always looks both ways before crossing a one-way street." - Doug Linder`
 
 </br>
  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=HiberNuts&show_icons=true&theme=rose_pine" alt="Anurag's github stats" /></a>  <a  href="https://github.com/anuraghazra/github-readme-stats"><img style="margin-left: 50px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiberNuts&layout=compact&theme=dark&hide_border=true" /></a> 
@@ -26,8 +26,9 @@
 </div> -->
 </br>
 <div>
-Below Stats are only for last 7 days
-</br>
+Below Stats are only for last 7 days.
+ 
+*if you find it low just assume i have my exams🤓* 
 </br>
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HiberNuts&v=2)](https://github.com/anuraghazra/github-readme-stats)
@@ -36,7 +37,7 @@ Below Stats are only for last 7 days
 
 </br>
 
-Technologies and Tools i use:
+`Technologies and Tools i use:`
 </br>
 <div>
 <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
@@ -56,9 +57,9 @@ Technologies and Tools i use:
 
 </br>
 
-### Email: raghavjindal0212@gmail.com
-### Phone: 8015637209
-### Website: https://raghav-portfolio.vercel.app/
+#### Email: raghavjindal0212@gmail.com
+#### Phone: 8015637209
+#### Website: https://raghav-portfolio.vercel.app/
 
 ## Get in Touch with me
 <div>
