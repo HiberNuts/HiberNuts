@@ -1,4 +1,4 @@
-### Hi there 👋 ![vistors](https://visitor-badge.laobi.icu/badge?page_id=HiberNuts.HiberNuts)
+### Hi there 👋  ![vistors](https://visitor-badge.laobi.icu/badge?page_id=HiberNuts.HiberNuts)
 
 #### I'm Raghav a self-taught passionate Fullstack Web & App developer from India 🇮🇳
 
