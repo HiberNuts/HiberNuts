@@ -20,7 +20,6 @@
 </br>
 
 <!-- <div>
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HiberNuts&show_icons=true&theme=rose_pine)
 </br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HiberNuts&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
