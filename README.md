@@ -12,7 +12,7 @@
 
 - 🤔 &nbsp; Exploring the world of programming.
 - 🎓 &nbsp; Studying BTech IT(2024) at Government College of Technology, Coimbatore.
-- 🔭  I’m currently working on Flutter.
+- 🔭  I’m currently working on Blockchain.
 ####   `😄 " A good programmer is someone who always looks both ways before crossing a one-way street." - Doug Linder`
 
 </br>
