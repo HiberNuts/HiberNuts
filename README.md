@@ -1,6 +1,6 @@
 ### Hi there 👋  ![vistors](https://visitor-badge.laobi.icu/badge?page_id=HiberNuts.HiberNuts)
 
-#### I'm Raghav a self-taught passionate Fullstack Web & App developer from India 🇮🇳
+#### I'm Raghav a self-taught passionate Blockchain, Fullstack Web & App developer from India 🇮🇳
 
 ### `Take a look at my portfolio 👇`
 > #### https://raghav-portfolio.vercel.app/ ( UnderConstruction🚧 )
