@@ -42,6 +42,9 @@ Below Stats are only for last 7 days.
 `Technologies and Tools i use:`
 </br>
 <div>
+
+<img height="30" src="https://seeklogo.com/images/S/solidity-logo-D29CC3EB00-seeklogo.com.png?v=637807957510000000">
+<img height="30" src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png">
 <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
 <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
 <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">  
