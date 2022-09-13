@@ -1,6 +1,6 @@
 ### Hi there 👋  ![vistors](https://visitor-badge.laobi.icu/badge?page_id=HiberNuts.HiberNuts)
 
-#### I'm Raghav a self-taught passionate Blockchain, Fullstack Web & App developer from India 🇮🇳
+#### I'm Raghav a self-taught passionate Blockchain ⚡, Fullstack Web 🌍 & App developer 🚀 from India 🇮🇳
 
 #### `Take a look at my portfolio 👇`
 > #### https://raghav-portfolio.vercel.app/ ( UnderConstruction🚧 )
@@ -43,12 +43,12 @@ Below Stats are only for last 7 days.
 </br>
 <div>
 
-<img height="30" src="https://seeklogo.com/images/S/solidity-logo-D29CC3EB00-seeklogo.com.png?v=637807957510000000">
+<img height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh3qYLAkXbaf7Ddym06OAkjwn-2dEsK-HGDOZqd-Ix5n1RqILK35KQR4jH8POMhU_3LUo&usqp=CAU">
+<img height="30" src="https://user-images.githubusercontent.com/75308493/189981733-253d36dd-a461-47b2-a593-39959e3263c9.png">
 <img height="30" src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png">
-<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
-<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">  
-  <img height="30" src="https://cdn.sanity.io/images/l8v0l0pb/production/b746d30f5d5e9b943560278ffaedef5b230d4b53-67x40.svg">
+<img height="30" src="https://user-images.githubusercontent.com/75308493/189980892-ca0b5750-3555-4719-9011-c870cabb80be.png">
+<img height="30" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png">
+<img height="30" src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo-thumbnail.png">
 <img height="30" src="https://1000logos.net/wp-content/uploads/2020/08/MongoDB-Emblem-500x313.jpg">
 <img height="30" src="https://cdn.sanity.io/images/l8v0l0pb/production/d8c8025b1695a3f14f849b99afc71d917ef40813-480x480.png">
 <img height="30" src="https://cdn.sanity.io/images/l8v0l0pb/production/08ac37aeccf34ea0b7c4649e221679220d7c2ceb-480x480.png"> 
@@ -63,7 +63,6 @@ Below Stats are only for last 7 days.
 </br>
 
 #### Email: raghavjindal0212@gmail.com
-#### Phone: 8015637209
 #### Website: https://raghav-portfolio.vercel.app/
 ### Blog: https://medium.com/@raghavjindal0212
 
