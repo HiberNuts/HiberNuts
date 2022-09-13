@@ -4,7 +4,7 @@
 
 #### `Take a look at my portfolio 👇`
 > #### https://raghav-portfolio.vercel.app/ ( UnderConstruction🚧 )
-> #### https://medium.com/@raghavjindal0212
+> #### https://medium.com/@raghavjindal0212 <img height="30" src="https://img.icons8.com/sf-regular/2x/medium-logo.png">
 
 
 ![Raghav Jindal](https://user-images.githubusercontent.com/75308493/160169457-7c59b1e5-ff22-4ad9-990b-986a63f24995.jpg)
