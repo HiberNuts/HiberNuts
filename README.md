@@ -7,8 +7,9 @@
 > #### https://medium.com/@raghavjindal0212 <img height="30" src="https://img.icons8.com/sf-regular/2x/medium-logo.png">
 
 
-![Raghav Jindal](https://user-images.githubusercontent.com/75308493/160169457-7c59b1e5-ff22-4ad9-990b-986a63f24995.jpg)
+<!--![Raghav Jindal](https://user-images.githubusercontent.com/75308493/160169457-7c59b1e5-ff22-4ad9-990b-986a63f24995.jpg)-->
 
+![Raghav Jindal (1420 × 800 px)](https://user-images.githubusercontent.com/75308493/189991247-5439c8d8-6e2c-4e14-8d4b-2ccddddedb1d.png)
 
 ### 💻 &nbsp;About Me 
 
