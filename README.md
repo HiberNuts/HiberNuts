@@ -39,7 +39,7 @@ Below Stats are only for last 7 days.
 
 </br>
 
-`Technologies and Tools i use:`
+`Technologies and Tools i use: 👨‍💻 `
 </br>
 <div>
 
@@ -66,16 +66,16 @@ Below Stats are only for last 7 days.
 #### Website: https://raghav-portfolio.vercel.app/
 #### Blog: https://medium.com/@raghavjindal0212
 
-## Get in Touch with me
+## Get in Touch with me ✨
 <div>
   <a href="https://www.linkedin.com/in/raghav-jindal-a56538212/">
-    <img align="center" alt="Raghav | LinkedIn" width="50px" src="https://img.icons8.com/color/2x/linkedin.png" />
+    <img align="center" alt="Raghav | LinkedIn" width="50px" src="https://img.icons8.com/bubbles/2x/linkedin.png" />
   </a>
   <a href="mailto:raghavjindal0212@gmail.com">
     <img align="center" alt="Raghav | Mail" width="50px" src="https://img.icons8.com/bubbles/2x/apple-mail.png" />
   </a>
-  <a href="tel:+918015637209">
-    <img align="center" alt="Raghav | Phone" width="50px" src="https://img.icons8.com/bubbles/344/apple-phone.png" />
+ <a href="https://www.instagram.com/raghavjindal02/">
+    <img align="center" alt="Raghav | Mail" width="50px" src="https://img.icons8.com/bubbles/2x/instagram-new--v2.png" />
   </a>
 </div>
 
