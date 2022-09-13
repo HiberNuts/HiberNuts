@@ -64,7 +64,7 @@ Below Stats are only for last 7 days.
 
 #### Email: raghavjindal0212@gmail.com
 #### Website: https://raghav-portfolio.vercel.app/
-### Blog: https://medium.com/@raghavjindal0212
+#### Blog: https://medium.com/@raghavjindal0212
 
 ## Get in Touch with me
 <div>
