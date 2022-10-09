@@ -80,14 +80,6 @@ Below Stats are only for last 7 days.
   </a>
 </div>
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://medium.com/@raghavjindal0212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@raghavjindal0212" height="30" width="40" /></a>
-</p>
 <!--
 **HiberNuts/HiberNuts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
