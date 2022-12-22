@@ -11,6 +11,8 @@
 
 ![Raghav Jindal (1420 × 800 px)](https://user-images.githubusercontent.com/75308493/189991247-5439c8d8-6e2c-4e14-8d4b-2ccddddedb1d.png)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=HiberNuts&theme=dark)](https://git.io/streak-stats)
+
 ### 💻 &nbsp;About Me 
 
 - 🤔 &nbsp; Exploring the world of programming.
